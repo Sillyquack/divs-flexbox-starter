@@ -120,12 +120,13 @@ body {
   color: #fff;
   line-height: 1.5em;
   font-size: 1.6em;
-  background-color: #f16059;
+  background-color: turquoise;
   height: 300px;
   width: 30%;
   display: flex;
   justify-content: center;
   align-items: center;
+  border: dotted silver;
 }
 
 
